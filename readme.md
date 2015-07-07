@@ -45,6 +45,6 @@ Included tasks:
 * <tt>connect</tt> - live reload for the server
 * <tt>js</tt> - live reload for the js
 * <tt>html</tt> - live reload for the html
-* <tt> watch </tt> - watches all your code for changes to trigger reloads or broserfys
+* <tt> watch </tt> - watches all your code for changes to trigger reloads or browserfys
 * default aka just <tt> gulp </tt> - shortcut for browserify
 * <tt> serve </tt> - shortcut for calling all of the above tasks
